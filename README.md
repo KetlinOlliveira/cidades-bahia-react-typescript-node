@@ -1,6 +1,10 @@
-# 🏙️ Cidades Dashboard — Bahia
+<div align = "center">
+  
+# 🏙️ Cidades Dashboard — Municípios da Bahia
 
 Dashboard interativo para visualização dos **417 municípios da Bahia**, construído com **React + TypeScript** e dados em tempo real da **API pública do IBGE**.
+
+</div>
 
 > Projeto desenvolvido como parte do portfólio de estudos
 
@@ -8,12 +12,26 @@ Dashboard interativo para visualização dos **417 municípios da Bahia**, const
 
 ## ✨ Funcionalidades
 
-- 📋 **Listagem completa** dos 417 municípios da Bahia
-- 🔍 **Busca em tempo real** por nome do município
-- 🗂️ **Filtro por mesorregião** (7 mesorregiões da Bahia)
-- ★ **Sistema de favoritos** para marcar municípios de interesse
-- 📊 **Contador dinâmico** de municípios exibidos vs total
-- 📱 **Layout responsivo** para diferentes tamanhos de tela
+-  **Listagem completa** dos 417 municípios da Bahia
+-  **Busca em tempo real** por nome do município
+-  **Filtro por mesorregião** (7 mesorregiões da Bahia)
+-  **Sistema de favoritos** para marcar municípios de interesse
+-  **Contador dinâmico** de municípios exibidos vs total
+-  **Layout responsivo** para diferentes tamanhos de tela
+
+
+## Demonstração Visual 
+
+> Tela inicial
+
+<img width="1799" height="899" alt="Captura de tela 2026-03-24 154334" src="https://github.com/user-attachments/assets/2c4d591b-e60f-413b-8955-768d20908b02" />
+
+
+>Pesquisa por nome ou mesorregião
+
+<img width="1792" height="832" alt="Captura de tela 2026-03-24 154359" src="https://github.com/user-attachments/assets/8d0e7045-ca3d-4f26-b342-2d989a76bb13" />
+
+
 
 ---
 
